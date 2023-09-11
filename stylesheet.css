@@ -24,6 +24,9 @@ li {
 }
 
 .main {
+  background-color: #E0FFFF;
+
+.main {
   padding: 100px 80px;
 }
 
@@ -40,7 +43,7 @@ li {
 }
 
 .footer {
-  background-color: #2f5167;
+  background-color: #20B2AA;
   color: #fff;
   height: 120px;
   padding: 40px;
