@@ -42,6 +42,10 @@ li {
   color: #ff4a4a;
 }
 
+.contents-item {
+  float: left;
+}
+  
 .footer {
   background-color: #20B2AA;
   color: #fff;
