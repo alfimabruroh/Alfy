@@ -22,13 +22,11 @@ li {
   float: left;
   padding: 33px 20px;
 }
-
-.main {
-  background-color: #E0FFFF;
-}
   
 .main {
+  background-color: #E0FFFF;
   padding: 100px 80px;
+  height: 240px
 }
 
 .copy-container h1 {
@@ -48,7 +46,7 @@ li {
 }
   
 .footer {
-  background-color: #20b2aa;
+  background-color: #4169E1;
   color: #fff;
   height: 120px;
   padding: 40px;
