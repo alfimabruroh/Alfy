@@ -5,33 +5,12 @@ body {
 
 a {
   text-decoration: none;
-
-li {
-  list-style: none;
-}
-
-
-
-.header-list li {
-  float: left;
-  padding: 33px 20px;
-}
-
-.container h1 {
-  font-size: 140px;
 }
 
 .container {
   width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
-  
-.container h2 {
-  font-size: 60px;
-}
-
-.container span {
-  color: #ff4a4a;
 }
 
 .top-wrapper {
@@ -39,6 +18,7 @@ li {
   background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
   color: white;
+  text-align: center;
 }
 
 .top-wrapper h1 {
@@ -58,6 +38,11 @@ li {
   color: white;
   display: inline-block;
   opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
 }
 
 .signup {
@@ -79,18 +64,4 @@ li {
 
 .btn-wrapper p {
   margin: 10px 0;
-}
-  
-
-.footer-logo {
-  float: left;
-  font-size: 32px;
-}
-
-.footer-list {
-  float: right;
-}
-
-.footer-list li {
-  padding-bottom: 20px;
 }
