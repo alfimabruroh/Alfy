@@ -26,13 +26,8 @@ li {
   float: left;
   padding: 33px 20px;
 }
-  
-.main {
-  background-color: #E0FFFF;
-  padding: 100px 80px;
-}
 
-.copy-container h1 {
+.container h1 {
   font-size: 140px;
 }
 
