@@ -69,7 +69,8 @@ li {
 }
 
 .contact-form {
-  padding-top: 100px;
+  padding-top: 10px;
+  margin-top: 10px;
 }
 
 /* Tambahkan CSS untuk tags <input> dan <textarea> */
