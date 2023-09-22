@@ -1,6 +1,10 @@
 body {
-  font-family: "Avenir Next";
+  margin: 0;
+  font-family: "Lucida Grande";
 }
+
+a {
+  text-decoration: none;
 
 li {
   list-style: none;
@@ -32,14 +36,66 @@ li {
   font-size: 140px;
 }
 
-.copy-container h2 {
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+  
+.container h2 {
   font-size: 60px;
 }
 
-.copy-container span {
+.container span {
   color: #ff4a4a;
 }
 
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-size: cover;
+  color: white;
+}
+
+.top-wrapper h1 {
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  opacity: 0.7;
+  margin-bottom: 3px;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+}
+
+.signup {
+  background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+  
 .footer {
   background-color: #4169E1;
   color: #fff;
