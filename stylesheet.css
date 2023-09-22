@@ -72,6 +72,14 @@ li {
   padding-top: 100px;
 }
 
+.jenis-kelamin {
+  padding-right: 10px;
+}
+
+.hobi {
+  padding-right: 10px;
+}
+
 /* Tambahkan CSS untuk tags <input> dan <textarea> */
 input, textarea {
   width: 400px;
