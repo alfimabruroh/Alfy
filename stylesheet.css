@@ -39,7 +39,18 @@ li {
   color: #ff4a4a;
 }
 
+/* Gantikan tinggi contents ke 500px */
 .contents {
+  height: 500px;
+}
+
+/* Gantikan property border-bottom milik section-title */
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+}
+
+/* Gantikan property float milik contents-item ke left */
+.contents-item {
   float: left;
 }
 
