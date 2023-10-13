@@ -7,9 +7,14 @@ li {
 }
 
 header {
-  background-color: #26d0c9;
-  color: #fff;
-  height: 90px;
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  /* Ubah position ke fixed, dan top ke 0 */
+  position: fixed;
+  top: 0;
+  /* Ubah z-index ke 10 */
+  z-index: 10;
 }
 
 .container {
