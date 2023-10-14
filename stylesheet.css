@@ -165,6 +165,8 @@ header {
 .contents-item {
   float: left;
   margin-right: 10px;
+  height: 60;
+  weight: 40;
 }
 
 .contents-item p {
